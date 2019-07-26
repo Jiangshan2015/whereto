@@ -6,6 +6,11 @@ import router from './router'
 
 Vue.config.productionTip = false
 
+//css
+import './assets/css/reset.css'
+import './assets/css/iconfont.css'
+
+import FastClick from 'fastclick'
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
