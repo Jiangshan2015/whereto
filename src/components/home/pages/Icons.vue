@@ -68,7 +68,14 @@ export default {
           id: "10",
           title: "全部玩乐",
           imgUrl: "http://s.qunarzz.com/homenode/images/touchheader/hotel.png"
+        },
+        {
+          id: "11",
+          title: "全部玩乐",
+          imgUrl: "http://s.qunarzz.com/homenode/images/touchheader/hotel.png"
         }
+
+
       ],
 
     };
